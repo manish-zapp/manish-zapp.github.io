@@ -5,21 +5,6 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.three60.cabioclient",
-      "sha256_cert_fingerprints": [
-        "9A:EE:4C:C9:A5:2B:12:A4:D9:02:AE:DD:BC:12:48:18:A9:62:2A:AF:A1:98:E5:BA:0D:47:D6:65:38:CC:27:F4",
-        "47:FB:08:BB:C0:BB:FE:18:B6:C4:BE:84:AB:18:53:AA:55:FA:CF:84:9E:2D:47:7E:0C:FE:9F:7E:10:AE:7B:9B",
-        "76:09:A2:F1:E8:DF:4F:FB:F1:5B:5F:4F:C8:0C:8C:DB:B8:16:D8:47:C9:E9:63:8A:10:28:E2:EA:64:D0:56:0B",
-        "69:56:A6:B6:48:19:B5:1C:D8:61:93:F1:76:14:B6:F4:13:F7:78:3B:09:9B:14:F8:66:0E:71:A8:C5:6D:59:F0"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
       "package_name": "com.ayushsubedi.cabiopartner",
       "sha256_cert_fingerprints": [
         "43:E5:7B:52:56:86:45:27:94:B4:50:33:B6:99:00:24:B4:96:E1:79:0B:66:98:51:3E:87:1A:73:71:7C:D9:03"
