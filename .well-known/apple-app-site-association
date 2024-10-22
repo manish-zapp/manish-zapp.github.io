@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "M96823NVQZ.bipin.three60.TootleClient"
+        ],
+        "paths": [
+          "/customerapp/*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "M96823NVQZ.bipin.three60.TootleClient"
+    ]
+  }
+}
