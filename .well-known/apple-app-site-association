@@ -7,7 +7,7 @@
           "M96823NVQZ.bipin.three60.TootleClient"
         ],
         "paths": [
-          "/customerapp/*"
+          "*"
         ],
         "components": [
           {
