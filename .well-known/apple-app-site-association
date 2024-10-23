@@ -6,6 +6,7 @@
         "appIDs": [
           "M96823NVQZ.bipin.three60.TootleClient"
         ],
+        "path": ["*"],
         "components": [
           {
             "#": "no_universal_links",
